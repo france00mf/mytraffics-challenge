@@ -13,7 +13,7 @@
     <body>
         <!-- Header -->
         <header class="header_defination_traffic">
-            <!-- ***************** MENU ***************** -->    
+            <!-- ********** MENU ************ -->    
             <div class="main_menu_traffic">
                 <div class="part_left_menu">
                     <a href="">MyTraffic Logo</a>
