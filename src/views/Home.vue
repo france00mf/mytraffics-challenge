@@ -8,7 +8,6 @@
 </template>
 
 <script>
-// @ is an alias to /src
 import Header from '@/components/home/header.vue'
 import Footer from '@/components/footer/footer.vue'
 
